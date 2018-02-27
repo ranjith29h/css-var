@@ -21,3 +21,4 @@ html,body{
   font-weight:var(--fweight)
 }
 ```
+![CSS variable](https://screenshots.firefox.com/dG59d6wEMmWfltSI/caniuse.com)
