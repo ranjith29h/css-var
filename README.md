@@ -4,7 +4,7 @@
 http://jsbin.com/dofucoj/1/edit?html,css,output
 
 
-How we can use css variable to reuse some standard colors repetedly 
+Using css variable to reuse some standard colors,font-size etc. repetedly 
 
 ```
 :root{
