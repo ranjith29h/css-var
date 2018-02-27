@@ -1,7 +1,7 @@
 # css-var
 
 
-http://jsbin.com/dofucoj/1/edit?html,css,output
+![Demo](http://jsbin.com/dofucoj/1/edit?html,css,output)
 
 
 Using css variable to reuse some standard colors,font-size etc. repetedly 
@@ -21,4 +21,4 @@ html,body{
   font-weight:var(--fweight)
 }
 ```
-![CSS variable](https://screenshots.firefox.com/dG59d6wEMmWfltSI/caniuse.com)
+![can i use support variables for html5 css3 etc](https://user-images.githubusercontent.com/12975992/36713430-9d7a9dfa-1bb3-11e8-9c60-85407afc1218.png)
